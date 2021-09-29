@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MandisaM1709
-- 👀 I’m interested in becoming a Software Engineer, currently hate being in the finance space
+- 👀 I’m interested in becoming a Web Developer
 - 🌱 I’m currently learning JavaScript with Codecademy and will be doing the Web Development course soon
 - 💞️ I’m looking to collaborate on HTML, CSS and JS projects
 - 📫 How to reach me you can email me on nmandisagoba@gmail.com, LinkedIn on Mandisa Goba
